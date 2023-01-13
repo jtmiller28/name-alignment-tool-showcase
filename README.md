@@ -70,7 +70,7 @@ This template repository offers an automated method to align scientific names in
 
 This repository was conceived on 2022-03-08 during the [Alien CSI Hack-a-thon](https://github.com/alien-csi/alien-csi-hackathon) in Romania by Christina, Quentin, Jorrit, Jasmijn, .... For more information see https://github.com/alien-csi/alien-csi-hackathon . 
 
-# Contributors
+## Contributors
 
 
 name | affiliation | orcid 
